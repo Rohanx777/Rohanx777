@@ -1,8 +1,8 @@
 # Hi, I'm Rohan
 
-I build web and mobile prototypes and explore applied machine learning through hackathon projects.
+I focus on applied machine learning, backend logic and system integration for hackathon projects.
 
-My projects span personal safety, healthcare workflows and LiDAR visualization. I enjoy connecting interfaces, APIs and data into something people can try.
+My work spans personal safety, healthcare research and LiDAR perception. I mainly contribute ML work, backend logic and integration, connecting models and services with usable applications.
 
 ## Selected projects
 
@@ -21,8 +21,8 @@ The CBC work is a research demo, not a diagnostic tool. Project READMEs describe
 
 ## Tools across my projects
 
-**Web & mobile:** TypeScript, React, Next.js, React Native, Expo, Flutter and Dart  
-**Backend & data:** Python, FastAPI, Node.js, Supabase and PostgreSQL  
-**Applied ML & visualization:** scikit-learn, PyTorch, CUDA and WebGL
+**ML & perception:** Python, scikit-learn, PyTorch and CUDA  
+**Backend & data:** FastAPI, Node.js, TypeScript, Supabase and PostgreSQL  
+**Application integration:** React, Next.js, React Native, Expo, Flutter and Dart
 
 Explore the repositories and linked pull requests below for code, documentation and collaboration history.
