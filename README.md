@@ -44,10 +44,10 @@ I implemented the project end to end: **Python and CUDA C++ backends, pretrained
 **A team healthcare prototype connecting intake and care workflows.**
 
 <a href="https://github.com/potlasrisharan/hackshift-sudarshan">
-  <img src="https://raw.githubusercontent.com/potlasrisharan/hackshift-sudarshan/main/docs/images/dashboard-desktop.png" width="100%" alt="AYUSETU repository screenshot of the team care dashboard using synthetic demo data" />
+  <img src="https://raw.githubusercontent.com/potlasrisharan/hackshift-sudarshan/main/docs/images/banner-ayusetu.svg" width="100%" alt="AYUSETU — आयुसेतु healthcare project banner" />
 </a>
 
-<sub>Team project interface, shown with synthetic demo data. My specific contributions are linked below.</sub>
+<sub>AYUSETU team project. My specific contributions are linked below.</sub>
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-027DFD?style=flat-square" alt="Flutter" />
