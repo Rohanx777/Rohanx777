@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="270" viewBox="0 0 1000 270" role="img" aria-labelledby="title desc">
+<title id="title">Rohan — Applied ML and backend engineering</title><desc id="desc">Building ideas into working systems. Machine learning, backend logic and system integration.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#10172b"/><stop offset="1" stop-color="#1c1637"/></linearGradient><linearGradient id="ink"><stop stop-color="#83e6ef"/><stop offset="1" stop-color="#bda4ff"/></linearGradient><pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#aaa4eb" stroke-opacity=".09"/></pattern></defs>
+<rect width="1000" height="270" rx="20" fill="url(#bg)"/><rect x="690" y="0" width="310" height="270" rx="20" fill="url(#grid)"/>
+<g fill="none" stroke="#7adce7" stroke-opacity=".3"><ellipse cx="842" cy="136" rx="105" ry="65" transform="rotate(-30 842 136)"/><ellipse cx="842" cy="136" rx="105" ry="65" transform="rotate(30 842 136)"/><circle cx="842" cy="136" r="52"/></g>
+<g fill="#8be8ee"><circle cx="842" cy="84" r="5"/><circle cx="747" cy="141" r="4"/><circle cx="909" cy="184" r="5"/><circle cx="866" cy="134" r="3"/></g>
+<text x="48" y="48" fill="#b3a8d9" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="3">BUILDING IDEAS INTO WORKING SYSTEMS</text>
+<text x="44" y="131" fill="url(#ink)" font-family="Segoe UI,Arial,sans-serif" font-size="77" font-weight="700" letter-spacing="-3">Rohan.</text>
+<text x="48" y="170" fill="#e3e8f5" font-family="Segoe UI,Arial,sans-serif" font-size="20">Applied ML · Backend logic · System integration</text>
+<g font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600"><rect x="48" y="203" width="129" height="29" rx="14.5" fill="#183f4a"/><text x="65" y="222" fill="#8be8ee">ML + PERCEPTION</text><rect x="188" y="203" width="139" height="29" rx="14.5" fill="#33274f"/><text x="205" y="222" fill="#cbb0ff">BACKEND SYSTEMS</text><rect x="338" y="203" width="148" height="29" rx="14.5" fill="#35364a"/><text x="355" y="222" fill="#e1d6ad">HACKATHON BUILDS</text></g>
+</svg>
