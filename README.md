@@ -10,9 +10,11 @@ My work spans personal safety, healthcare research and LiDAR perception. I mainl
 | --- | --- | --- |
 | **[AYUSETU / hackshift-sudarshan](https://github.com/potlasrisharan/hackshift-sudarshan)** | Team healthcare prototype. My merged contributions include a multilingual Flutter kiosk and an isolated research-model API. | Flutter · Dart · Python · FastAPI |
 | **[AMBA](https://github.com/Rohanx777/amba)** | Team safety prototype combining a mobile app, response dashboard and community support. Built for HACK KRMU 5.0. | React Native · Expo · TypeScript · React · Supabase |
-| **[SENTINEL-2.5D](https://github.com/Rohanx777/SENTINEL-2.5D)** | LiDAR perception project with Python and C++/CUDA implementations, 2.5D grids and a browser visualization dashboard. | Python · C++ · CUDA · PyTorch · Next.js |
+| **[SENTINEL-2.5D](https://github.com/Rohanx777/SENTINEL-2.5D)** | I implemented the complete project: Python and C++/CUDA backends, 2.5D grids, streaming and the browser dashboard. Research was contributed by a friend. | Python · C++ · CUDA · PyTorch · Next.js |
 
 ## Contributions you can inspect
+
+- **[SENTINEL-2.5D — end-to-end implementation](https://github.com/Rohanx777/SENTINEL-2.5D):** I built the project implementation across the perception pipeline, backend and frontend. My friend handled the research.
 
 - **[Multilingual Flutter kiosk — merged PR #3](https://github.com/potlasrisharan/hackshift-sudarshan/pull/3):** typed intake, consent-gated submission, four-language UI, Elder Mode, API integration and unit/widget tests.
 - **[Isolated CBC model API — merged PR #4](https://github.com/potlasrisharan/hackshift-sudarshan/pull/4):** frozen inference artifacts, FastAPI endpoints, regression tests and deployment configuration.
