@@ -6,11 +6,11 @@ I focus on **applied machine learning, backend logic and system integration** fo
 
 I implemented the project end to end: Python and CUDA C++ backends, pretrained-model integration, compact height grids, WebSocket streaming and a Next.js / WebGL dashboard. A friend contributed the research; the original Cylinder3D model is credited to its authors.
 
-**[Watch the 60-second walkthrough](https://github.com/Rohanx777/SENTINEL-2.5D/blob/codex/sentinel-portfolio-demo/docs/media/sentinel-walkthrough.mp4)** · [Demo code and setup](https://github.com/Rohanx777/SENTINEL-2.5D/tree/codex/sentinel-portfolio-demo) · [Portfolio update PR](https://github.com/Rohanx777/SENTINEL-2.5D/pull/1)
+**[Watch the 60-second walkthrough](https://github.com/Rohanx777/SENTINEL-2.5D/blob/main/docs/media/sentinel-walkthrough.mp4)** · [Demo code and setup](https://github.com/Rohanx777/SENTINEL-2.5D/tree/main) · [Merged portfolio update](https://github.com/Rohanx777/SENTINEL-2.5D/pull/1)
 
-![SENTINEL height-grid and point-cloud comparison](https://raw.githubusercontent.com/Rohanx777/SENTINEL-2.5D/codex/sentinel-portfolio-demo/docs/images/compare.png)
+![SENTINEL height-grid and point-cloud comparison](https://raw.githubusercontent.com/Rohanx777/SENTINEL-2.5D/main/docs/images/compare.png)
 
-*Actual synthetic-fixture demo in CPU mode. The recorded UI timing is not a trained-model benchmark. The demonstrated runtime is on the linked portfolio branch while its update PR is open.*
+*Actual synthetic-fixture demo in CPU mode. The recorded UI timing is not a trained-model benchmark.*
 
 ## Other selected work
 
